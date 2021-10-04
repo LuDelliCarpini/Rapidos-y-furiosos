@@ -28,3 +28,9 @@ tr:nth-child(even) {
 tr{
     text-align: center;
 }
+.pr{
+    background-color:rgb(151, 192, 204) ;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
